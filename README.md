@@ -50,7 +50,7 @@ The script will display:
 ## Creator
 
 **Uzair Developer**  
-[GitHub Profile](https://github.com/uzairdeveloper223/Ome.tv-IP-and-Location)
+[GitHub Profile](https://github.com/uzairdeveloper223/)
 
 ---
 Forget this 👇🏻
