@@ -1,19 +1,57 @@
-# Ome.tv-IP-and-Location
-Get IP and location of your partner in Ome.tv
+# Ome.tv IP & Location Tool
 
-So there are somethings you need to do before this script will get work
+A browser script that displays your partner's IP address and location information while using Ome.tv.
 
-Step 1: first of all go to [IP-Info]{https://ipinfo.io}
-create a account and go to [API-TAB]{https://ipinfo.io/dashboard/token} 
-create a token and save it somewhere safe 
-Step 2: then open the main.js from this repo and copy the whole text and paste in an editor 
-and replace the 
-> api-key-here
-Step 3: with the api key you got from ipinfo.io and then save and copt the whole code again
-then go to [Ome.tv]{ome.tv}
-step 4: pree F12 key from your keyboard then go to "console" tab click next to the ">"
-and paste the code there and press enter and then you will peoples ip and location
-in the messages along with link to open the maps
+## Prerequisites
 
-NOTE: YOU HAVE TO DO THIS EVERYTIME YOU REFRESH THE PAGE but not the whole process you just need to do the step 4 with the api key so thats why i toldyou to save the code with the api key
+Before using this script, you'll need:
 
+1. **IPInfo API Key**
+   - Visit [IPInfo.io](https://ipinfo.io)
+   - Create an account
+   - Navigate to the [API Tokens](https://ipinfo.io/dashboard/token) section
+   - Generate a new token and save it securely
+
+## Setup Instructions
+
+### Step 1: Configure the Script
+1. Open `main.js` from this repository
+2. Copy the entire code into a text editor
+3. Replace `api-key-here` with your actual IPInfo API key
+4. Save the modified code for future use
+
+### Step 2: Run the Script on Ome.tv
+1. Visit [Ome.tv](https://ome.tv)
+2. Press `F12` to open Developer Tools
+3. Navigate to the **Console** tab
+4. Click next to the `>` prompt
+5. Paste your modified code and press `Enter`
+
+## What You'll See
+
+The script will display:
+- Partner's IP address
+- Location information
+- Additional metadata
+- Direct map links to their approximate location
+
+## Important Notes
+
+- **Refresh Requirement**: You must re-run the script (Step 2 only) every time you refresh the Ome.tv page
+- **API Key**: Keep your IPInfo API key secure as you'll need it for each session
+- **Saved Code**: Keep your modified code with the API key for quick access
+
+## Usage Guidelines
+
+- **Educational Purpose Only**: Use responsibly and for learning purposes
+- **Credits**: If you create content using this tool, please provide attribution
+- **Contributions**: Feel free to contribute improvements to the project
+
+## Creator
+
+**Uzair Developer**  
+[GitHub Profile](https://github.com/uzairdeveloper223/Ome.tv-IP-and-Location)
+
+---
+Forget this 👇🏻
+*Disclaimer: This tool is intended for educational and research purposes only. Use responsibly and in compliance with applicable laws and terms of service.*
