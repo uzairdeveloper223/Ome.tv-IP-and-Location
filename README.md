@@ -53,5 +53,5 @@ The script will display:
 [GitHub Profile](https://github.com/uzairdeveloper223/)
 
 ---
-Forget this 👇🏻
+Forget this 👉🏻
 *Disclaimer: This tool is intended for educational and research purposes only. Use responsibly and in compliance with applicable laws and terms of service.*
